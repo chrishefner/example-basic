@@ -4,3 +4,4 @@ this is even more insightful text.
 
 red
 blue
+green
